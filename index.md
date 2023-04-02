@@ -13,7 +13,6 @@ I'm Masters student from University of Moratuwa. Intested in improving robots ca
 ---
 
 
-
 **MSc by research at Uinversity of Moratuwa.** - *[2019 - 2023]*
 Thesis topic: Haptic based surface stiffness identification using machine learning
 
@@ -62,6 +61,18 @@ The summary of the project can be found [here.](https://youtu.be/tn_LN6VYbTo)
 Data acquisition [video footage](https://photos.app.goo.gl/aR44i6vJQHS5Hqws6) 
 
 
+BibTeX
+
+> @inproceedings{dewapura2021object,
+  title={Object Identification using Support Vector Regression for Haptic Object Reconstruction},
+  author={Dewapura, Praveena W and Jayawardhana, KD Malith and Abeykoon, AM Harsha S},
+  booktitle={2021 3rd International Conference on Electrical Engineering (EECon)},
+  pages={144--150},
+  year={2021},
+  organization={IEEE}
+}
+
+
 
 ### Operation of a grid connected microgrid with a variable load bus and a diesel generator set
 
@@ -75,3 +86,13 @@ Microgrids can helps to stabilise the national grid and absorb much renewable po
 
 
 
+format https://learning-dynamic-manipulation.cs.princeton.edu/
+
+---
+---
+
+### List of answers to unknown questions. 
+
+---
+
+Python motor controllers https://pypi.org/project/pypot/2.11.8/
