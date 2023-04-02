@@ -24,10 +24,6 @@ Thesis topic: Haptic based surface stiffness identification using machine learni
 
 
 
-
-
-
-
 *Abeykoon, A. H. S., Wijewardhana, W. M. T. G., Senevirathne, E. H., & Jayawardhana, K. D. M. (2020). Vibration suppression of force controllers using disturbance observers. In Vibration Control and Actuation of Large-Scale Systems (pp. 57-89). Academic Press. [Springer](https://doi.org/10.1016/B978-0-12-821194-6.00003-2)*
 
 
@@ -61,10 +57,8 @@ BibTeX
 }
 
 
-![Deformable Object Classification](/assets/img/HDOC1.png)
 
-
-**Project repositories**
+Project repositories
 
 Force controller and hardware setup. [GitHub](https://github.com/malithjkd/MSc-UoM/tree/master/Sensoray826)
 
@@ -81,6 +75,10 @@ Data acquisition [video footage](https://photos.app.goo.gl/aR44i6vJQHS5Hqws6)
 
 
 
+![Deformable Object Classification](/assets/img/HDOC1.png)
+
+
+[![Alternate Text]({/assets/img/PR2.jpg})]({https://youtu.be/tn_LN6VYbTo} "Technical summary video")
 
 
 ### Operation of a grid connected microgrid with a variable load bus and a diesel generator set
@@ -108,6 +106,10 @@ BibTeX
 [The governor in action](https://www.youtube.com/watch?v=vQNblzoR44E)
 
 [Image gallery](https://photos.app.goo.gl/vgqzuYQAhWqkWRTVA)
+
+
+
+
 
 
 
