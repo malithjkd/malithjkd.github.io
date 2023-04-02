@@ -45,7 +45,7 @@ Unfortunately, the majority of object classification studies rely solely on sens
 
 *Dewapura, Praveena W., KD Malith Jayawardhana, and AM Harsha S. Abeykoon. "Object Identification using Support Vector Regression for Haptic Object Reconstruction." 2021 3rd International Conference on Electrical Engineering (EECon). [IEEE](https://ieeexplore.ieee.org/abstract/document/9580959), 2021.*
 
-BibTeX
+**BibTeX**
 
 > @inproceedings{dewapura2021object,
   title={Object Identification using Support Vector Regression for Haptic Object Reconstruction},
@@ -58,7 +58,7 @@ BibTeX
 
 
 
-Project repositories
+**Project repositories**
 
 Force controller and hardware setup. [GitHub](https://github.com/malithjkd/MSc-UoM/tree/master/Sensoray826)
 
@@ -89,7 +89,7 @@ Microgrids can helps to stabilise the national grid and absorb much renewable po
 
 *Lakshitha, M. K. G., Jayawardhana, K. D. M., Boralessa, M. A. K. S., Rohitha, W. G. R. W., Hemapala, K. T. M. U., Lucas, J. R., ... & Porawagamage, G. D. (2017, April). Operation of a grid connected microgrid with a variable load bus and a diesel generator set. In 2017 Innovations in Power and Advanced Computing Technologies (i-PACT) (pp. 1-6). [IEEE](https://ieeexplore.ieee.org/document/8245216).*
 
-BibTeX
+**BibTeX**
 
 > @inproceedings{lakshitha2017operation,
   title={Operation of a grid connected microgrid with a variable load bus and a diesel generator set},
