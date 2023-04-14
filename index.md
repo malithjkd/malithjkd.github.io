@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 ### About me. 
 
@@ -81,6 +79,8 @@ Data acquisition [video footage](https://photos.app.goo.gl/aR44i6vJQHS5Hqws6)
 [![Alternate Text]({/assets/img/PR2.jpg})]({https://youtu.be/tn_LN6VYbTo} "Technical summary video")
 
 
+
+
 ### Operation of a grid connected microgrid with a variable load bus and a diesel generator set
 
 Microgrids can helps to stabilise the national grid and absorb much renewable power. So, to export and import energy at predefined levels at steady phase, micro-grids need to adapt to a dynamic governor control to the swing bus. In our project we designed and developed a diesel generator governor which responds to the load changes inside the microgrid and keeps a steady phase of electricity export or imports to the national electricity grid. Developed governor is tested on an 11kVA diesel generator which is connected to the PI transmission line model with multiple 3 kVA loads. 
@@ -123,3 +123,5 @@ format https://learning-dynamic-manipulation.cs.princeton.edu/
 ---
 
 Python motor controllers https://pypi.org/project/pypot/2.11.8/
+
+
