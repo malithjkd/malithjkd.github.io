@@ -1,11 +1,11 @@
+theme: jekyll-theme-minimal
 title: K.D.M. Jayawardhana
 author: MalithJKD
 logo: /assets/img/photo.jpg
 email: malithjayawardhana@gmail.com
-description: >- # this means ignore newlines
-  An AI & Automation | Control & Robotics Engineer with a research-based Master's degree in Industrial Automation. 
+description: [ An AI & Automation | Control & Robotics Engineer with a research-based Master's degree in Industrial Automation. 
   Specializing in leveraging AI, computer vision, and advanced motion control to solve complex industrial challenges. 
-  Passionate about developing intelligent machines that push the boundaries of technology.
+  Passionate about developing intelligent machines that push the boundaries of technology. ]
 
   
 
