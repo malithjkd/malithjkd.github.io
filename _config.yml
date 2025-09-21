@@ -2,14 +2,10 @@ theme: jekyll-theme-minimal
 title: [K.D.M. Jayawardhana]
 logo: /assets/img/photo.jpg
 description: [
-
 ### AI & Automation | Control & Robotics Engineer
 
 An Electrical Engineer and researcher specializing in Industrial Automation and Machine Learning. I leverage AI, computer vision, and haptic technology to enhance system accuracy and solve complex industrial challenges. My work is driven by a passion for developing intelligent machines that push the boundaries of automation.
-
 -   🎓 M.Sc. in Industrial Automation (by Research) from the University of Moratuwa.
-
 -   🛠️ Core Skills : Python, Machine Learning (PyTorch, Scikit-Learn), PLC Programming, Computer Vision (Halcon / OpenCV), and Advanced Motion Control.
-
 -   💡 Currently engineering novel solutions for ultra-high precision gantry systems as an Application Engineer at PBA Systems.
 ]
